@@ -1,0 +1,17 @@
+{
+    "name": "Hyunjin",
+    "version": "0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "engines": {
+      "node": "12.x"
+    },
+    "author": "Gui",
+    "license": "ISC",
+    "dependencies": {
+      "aoi.js": "^4.4.4"
+    }
+  } 
